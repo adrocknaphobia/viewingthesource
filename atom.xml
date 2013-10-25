@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://adrocknaphobia.github.io/viewingthesource/atom.xml" rel="self"/>
+  <link href="http://adrocknaphobia.github.io/viewingthesource/"/>
+  <updated>2013-10-25T00:47:55-04:00</updated>
+  <id>http://adrocknaphobia.github.io/viewingthesource/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
